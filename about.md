@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello!
+I'm a software developer in South Korea.
+
+I mamage this blog for my study.
+Now, this blog is under construction.
+
+Thank you.
+
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Work: Currently I'm working in developing Android application.
+Life: I live happy with my son and wife in South Korea.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[ndukwon@gmail.com](mailto:ndukwon@gmail.com)
